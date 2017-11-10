@@ -1,0 +1,2 @@
+[12-Apr-2017 21:47:59 UTC] PHP Warning:  include_once(/header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/index.php on line 3
+[12-Apr-2017 21:47:59 UTC] PHP Warning:  include_once(): Failed opening '/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/deltazus/public_html') in /home/deltazus/public_html/index.php on line 3

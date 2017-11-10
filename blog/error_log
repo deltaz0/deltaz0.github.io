@@ -1,0 +1,13 @@
+[12-Apr-2017 02:35:26 UTC] PHP Warning:  require(wp/wp-blog-header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/blog/index.php on line 3
+[12-Apr-2017 02:35:26 UTC] PHP Warning:  require(wp/wp-blog-header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/blog/index.php on line 3
+[12-Apr-2017 02:35:26 UTC] PHP Fatal error:  require(): Failed opening required 'wp/wp-blog-header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/deltazus/public_html/blog/index.php on line 3
+[12-Apr-2017 02:37:46 UTC] PHP Warning:  require(/wp/wp-blog-header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/blog/index.php on line 3
+[12-Apr-2017 02:37:46 UTC] PHP Warning:  require(/wp/wp-blog-header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/blog/index.php on line 3
+[12-Apr-2017 02:37:46 UTC] PHP Fatal error:  require(): Failed opening required '/wp/wp-blog-header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/deltazus/public_html/blog/index.php on line 3
+[12-Apr-2017 04:52:16 UTC] PHP Parse error:  syntax error, unexpected 'blogEntry' (T_STRING), expecting ',' or ';' in /home/deltazus/public_html/blog/index.php on line 15
+[09-Nov-2017 03:14:48 UTC] PHP Warning:  require(wp-blog-header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/blog/nhd4onnxv7lkt8sqyj0wrfefikpimqeu.php on line 9
+[09-Nov-2017 03:14:48 UTC] PHP Warning:  require(wp-blog-header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/blog/nhd4onnxv7lkt8sqyj0wrfefikpimqeu.php on line 9
+[09-Nov-2017 03:14:48 UTC] PHP Fatal error:  require(): Failed opening required 'wp-blog-header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/deltazus/public_html/blog/nhd4onnxv7lkt8sqyj0wrfefikpimqeu.php on line 9
+[09-Nov-2017 03:15:03 UTC] PHP Warning:  require(wp-blog-header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/blog/nhd4onnxv7lkt8sqyj0wrfefikpimqeu.php on line 9
+[09-Nov-2017 03:15:03 UTC] PHP Warning:  require(wp-blog-header.php): failed to open stream: No such file or directory in /home/deltazus/public_html/blog/nhd4onnxv7lkt8sqyj0wrfefikpimqeu.php on line 9
+[09-Nov-2017 03:15:03 UTC] PHP Fatal error:  require(): Failed opening required 'wp-blog-header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/deltazus/public_html/blog/nhd4onnxv7lkt8sqyj0wrfefikpimqeu.php on line 9
