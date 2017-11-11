@@ -248,14 +248,14 @@ text-decoration: none;
 }
 h1 {
 font-family: 'MyWebFontThree';
-font-size: 34px;
+font-size: 30px;
 font-weight: normal;
 color: #FFFFFF;
 margin: 22px 0;
 }
 h2 {
 font-family: 'MyWebFontThree';
-font-size: 28px;
+font-size: 26px;
 font-weight: normal;
 color: #DDDDDD;
 margin: 22px 0;
@@ -266,13 +266,6 @@ font-size: 20px;
 font-weight: normal;
 color: #BBBBBB;
 margin: 22px 0;
-}
-h4 {
-font-family: 'MyWebFontThree';
-font-size: 20px;
-font-weight: normal;
-color: #BBBBBB;
-margin: 32px 0 18px;
 }
 hr {
 margin: 32px 0px;
