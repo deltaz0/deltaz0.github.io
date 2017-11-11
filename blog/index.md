@@ -1,6 +1,4 @@
 ---
-layout: post
-title: {{ site.posts.first.title }}
-date: {{site.posts.first.date }}
+layout: default
 ---
 {{ site.posts.first.content }}
