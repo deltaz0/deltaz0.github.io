@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: post
 ---
-{{ site.posts.first }}
+{{ site.posts.first.content }}
