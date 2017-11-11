@@ -136,7 +136,8 @@ margin: 0 auto;
 text-align: right;
 }
 .flashcontainer {
-width:920px;
+max-width: 780px;
+width: 100%;
 height:1px;
 margin: 0px auto;
 }
@@ -186,7 +187,7 @@ background-color: #333;
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr='#999999', endColorstr='#000000')"; /* IE8 */
 }
 .d {
-width: 918px;
+/*width: 918px;*/
 margin: 0 auto;
 /*background-color: #23272A;*/
 /*background-color: #282D30;*/
@@ -287,7 +288,7 @@ border-color: #888;
 }
 .d .innerbox {
 margin: 0 auto;
-width: 780px;
+/*width: 780px;*/
 padding-top: 30px;
 padding-bottom: 30px;
 }
@@ -412,7 +413,8 @@ html, body {
 	height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
 	height: 100%;
 	margin: -76px auto -60px; /* the bottom margin is the negative value of the footer's height */
-	width: 920px;
+	max-width: 780px;
+	width: 100%;
 	/*background-color: #23272A;*/
 	/*background-color: #282D30;*/
 	/*box-shadow: 0px 0px 8px -2px #000;*/
