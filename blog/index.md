@@ -5,12 +5,12 @@ layout: default
 
 <div class="postselector">
 <ul class="posts">
-	  {% for blog in site.categories.blogs %}
-	    <li><span>{{ blog.date | date_to_string }}</span> » <a href="{{ blog.url }}" title="{{ blog.title }}">{{ blog.title }}</a></li>
+	  {% for blogentry in site.categories.blog %}
+	    <li><span>{{ blogentry.date | date_to_string }}</span> » <a href="{{ blogentry.url }}" title="{{ blogentry.title }}">{{ blogentry.title }}</a></li>
 	  {% endfor %}
 	</ul>
 </div>
 
-{{ site.categories.blogs.first.date | date_to_string }} » **{{ site.categories.blogs.first.title }}**
+{{ site.categories.blog.first.date | date_to_string }} » **{{ site.categories.blog.first.title }}**
 
-{{ site.categories.blogs.first.content }}
+{{ site.categories.blog.first.content }}
