@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 title: "Github Pages Site Launch"
 date: 2017-11-10
 ---
