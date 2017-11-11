@@ -9,7 +9,7 @@ layout: default
 	  {% endfor %}
 	</ul>
 </div>
-<p class="meta"><b>{{ page.title }}</b> » {{ page.date | date_to_string }}</p>
+<p class="meta">{{ page.date | date_to_string }} » <b>{{ page.title }}</b></p>
 <div class="post">
 {{ content }}
 </div>
