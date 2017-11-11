@@ -53,6 +53,12 @@ div.blogBox{
     padding-left: 16px;
     padding-right: 16px;
 }
+.postselector{
+	width: 17%;
+	float: right;
+	margin: 0px 0px 6px 6px;
+	border-left: 1px #333 solid;
+}
 pre{
 background: #000000;
 color: #D2A0D2;
