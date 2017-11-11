@@ -21,12 +21,12 @@ Here is a thing I made (neural network making art):
 
 My active webpage can be found at:
 
-* [deltaz.us]
-* <a href="http://samuelbjohnson.us">samuelbjohnson.us</a>
+* [deltaz.us](http://deltaz.us)
+* [samuelbjohnson.us](http://samuelbjohnson.us)
 
 You can find my other webpages at:
 
-* <a href="http://deltaz0.github.io">deltaz0.github.io</a>
-* <a href="http://samuelbjohnson.weebly.com">samuelbjohnson.weebly.com</a>
-* <a href="http://sbj0019.wordpress.com">sbj0019.wordpress.com</a>
-* <a href="http://students.cse.unt.edu/~sbj0019">students.cse.unt.edu/~sbj0019</a>
+* [deltaz0.github.io](http://deltaz0.github.io)
+* [samuelbjohnson.weebly.com](http://samuelbjohnson.weebly.com)
+* [sbj0019.wordpress.com](http://sbj0019.wordpress.com)
+* [students.cse.unt.edu/~sbj0019](http://students.cse.unt.edu/~sbj0019)
