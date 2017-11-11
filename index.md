@@ -2,8 +2,8 @@
 layout: default
 ---
 # Samuel B. Johnson
-PhD candidate, graduate researcher
-University of North Texas Computer Science
+# PhD candidate, graduate researcher
+# University of North Texas Computer Science
 
 I am a third year PhD student at the University of North Texas in Denton, TX. You can find me working in the [Laboratory for Recreational Computing](https://larc.unt.edu/) or the [xREZ Art+Science Lab](http://www.xrezlab.com/).
 
