@@ -1,5 +1,5 @@
 ---
-layout: postblog
+layout: project
 title: "First Project"
 date: 2017-11-11
 ---
