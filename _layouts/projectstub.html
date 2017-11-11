@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h1>Projects</h1>
+<div class="postselector">
+<ul class="projectstubs">
+	  {% for projectstub in site.projectstubs %}
+	    <li><a href="{{ projectstub.url }}" title="{{ projectstub.title }}">{{ projectstub.title }}</a></li>
+	  {% endfor %}
+	</ul>
+</div>
+<p><b>{{ page.title }}</b></p>
+
+{{ content }}
