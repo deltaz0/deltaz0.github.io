@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-# Blog
-
+<h1>Blog</h1>
 <div class="postselector">
 <ul class="posts">
 	  {% for post in site.posts %}
@@ -10,7 +9,6 @@ layout: default
 	  {% endfor %}
 	</ul>
 </div>
-
-{{ page.date | date_to_string }} » **{{ page.title }}**
+<p>{{ page.date | date_to_string }} » <b>{{ page.title }}</b></p>
 
 {{ content }}
