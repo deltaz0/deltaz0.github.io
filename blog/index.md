@@ -11,6 +11,6 @@ layout: default
 	</ul>
 </div>
 <div>
-<p>Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog.Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog.Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog.Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog.Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog.Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog. Here is a new blog paragraph wow cool a blog.</p>
+{{ site.posts.first.content }}
 </div>
 </div>
