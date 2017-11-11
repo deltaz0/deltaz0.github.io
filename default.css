@@ -38,6 +38,7 @@ margin-top: 16px;
 float: left;
 max-width: 200px;
 width: 24%;
+overflow: hidden;
 }
 hr.blogSep{
     border-color: #aaa;
