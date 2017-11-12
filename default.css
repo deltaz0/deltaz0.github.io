@@ -126,7 +126,7 @@ animation-timing-function: linear;
 }
 */
 .b {
-height: 76px;
+height: 62px;
 width: 100%;
 margin: 0 auto;
 background-color: #000000;
@@ -301,7 +301,7 @@ padding-bottom: 30px;
 position:relative;*/
 display: inline-block;
 float: none;
-margin-top: 51px;
+margin-top: 37px;
 max-width: 500px;
 width: 72%;
 }
@@ -425,7 +425,7 @@ html, body {
 }
 .blackbox{
 background-color: transparent;
-height: 76px;
+height: 62px;
 width: 100%;
 }
 .e, .push {
