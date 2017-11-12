@@ -1,27 +1,7 @@
 @font-face{
-font-family: 'MyWebFont';
-src: url('/fonts/sansation/Sansation-Light.ttf') format('opentype');
-}
-/*
-@font-face{
-font-family: 'MyWebFontTwo';
-src: url('dejavu-sans/DejaVuSans.ttf') format('opentype');
-}
-*/
-@font-face{
 font-family: 'MyWebFontThree';
 src: url('/fonts/droid-sans/DroidSans.ttf') format('opentype');
 }
-/*
-@font-face{
-font-family: 'MyWebFontThreeB';
-src: url('/raleway/Raleway-Regular.ttf') format('opentype');
-}
-@font-face{
-font-family: 'MyWebFontFour';
-src: url('/open-sans/OpenSans-Regular.ttf') format('opentype');
-}
-*/
 #drop-nav {list-style: none;padding: 0px;margin: 0px; text-align: center;}
 #drop-nav li {display: block;position: relative;float: left; width: 20%;}
 #drop-nav li ul {display: none; width: 100%; margin-left: 0px; padding: 1px 0px 0px 0px;z-index:3;}
