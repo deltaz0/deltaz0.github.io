@@ -416,7 +416,7 @@ html, body {
 	min-height: 100%;
 	height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
 	height: 100%;
-	margin: -76px auto -60px; /* the bottom margin is the negative value of the footer's height */
+	margin: -62px auto -60px; /* the bottom margin is the negative value of the footer's height */
 	max-width: 780px;
 	width: 100%;
 	/*background-color: #23272A;*/
