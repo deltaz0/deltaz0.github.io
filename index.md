@@ -6,5 +6,5 @@ layout: default
 
 Link to my CV/Resume:
 
-* [sample](http://github.com)
-* [sample 2](http://github.com)
+* [Compact](https://deltaz0.github.io/cvs/compact/resume.pdf)
+* [Expanded](https://deltaz0.github.io/cvs/expanded/resume.pdf)
