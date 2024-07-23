@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>GAMES WORK</h1>
+<hr>
+<div class="postselector">
+<ul class="posts">
+	  {% for gamesentry in site.categories.games %}
+	    <li><a href="{{ gamesentry.url }}" title="{{ gamesentry.title }}">{{ gamesentry.title }}</a></li>
+	  {% endfor %}
+	</ul>
+</div>
+<p><h2>{{ page.title }}</h2></p>
+
+{{ content }}

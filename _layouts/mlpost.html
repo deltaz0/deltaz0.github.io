@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>MACHINE LEARNING WORK</h1>
+<hr>
+<div class="postselector">
+<ul class="posts">
+	  {% for mlentry in site.categories.ml %}
+	    <li><a href="{{ mlentry.url }}" title="{{ mlentry.title }}">{{ mlentry.title }}</a></li>
+	  {% endfor %}
+	</ul>
+</div>
+<p><h2>{{ page.title }}</h2></p>
+
+{{ content }}
