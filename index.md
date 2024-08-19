@@ -5,11 +5,11 @@ layout: default
 
 # Violet I Johnson, PhD
 
-## Computer Science <span style="color:dimgray">(Recent Doctoral Graduate)</span><br>University of North Texas College of Engineering
+## Computer Science & Engineering <span style="color:dimgray">(Recent Graduate)</span><br>University of North Texas College of Engineering
 
 ### research scientist | game programmer | software developer | ML engineer | artist | teacher | producer | prototyper | collaborator
 
-I am a recent graduate (July '24) -- **currently residing in Denver, CO** -- from the University of North Texas in Denton, TX, from which I also hold a BS and MS in computer science. My dissertation topic explored the intersection of convolutional neural networks and non-lexical audio (music & sound effects).<br>Through my graduate career I have worked primarily in the [Laboratory for Recreational Computing](https://larc.unt.edu/) and the [xREZ Art+Science Lab](http://www.xrezlab.com/), with a focus in game programming, machine learning, and audio-focused DSP.
+I am a recent graduate (July '24) -- **currently residing in Denver, CO** -- from the University of North Texas in Denton, TX, from which I also hold a BS and MS in computer science. My dissertation topic explored the intersection of convolutional neural networks and non-lexical audio (music & sound effects).<br>Through my graduate career I have worked primarily in the [Laboratory for Recreational Computing](https://larc.unt.edu/) and the [xREZ Art+Science Lab](https://cvad.unt.edu/design/xrez-art-science-lab), with a focus in game programming, machine learning, and audio-focused DSP.
 
 I maintain this page as a personal website and portfolio for a variety of my projects, research or otherwise, as well as my music.
 
