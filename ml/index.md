@@ -5,9 +5,9 @@ layout: default
 
 ---
 
-### <center>[<strong>THIS PAGE UNDER CONSTRUCTION</strong>]<br>I recently graduated and am in the process of relocating and rebuilding this site from scratch with my newer work. Content below likely old or placeholder.</center>
+<!-- ### <center>[<strong>THIS PAGE UNDER CONSTRUCTION</strong>]<br>I recently graduated and am in the process of relocating and rebuilding this site from scratch with my newer work. Content below likely old or placeholder.</center>
 
----
+--- -->
 
 <div class="postselector">
 <ul class="posts">

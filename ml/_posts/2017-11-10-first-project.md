@@ -1,7 +1,7 @@
 ---
 layout: mlpost
-title: "Hallucination"
-date: 2017-11-11
+title: "Intentional Hallucination Maximization"
+date: 2017-11-10
 ---
 
 Neural network hallucination through maximizing activations of vision model trained on art databases:
