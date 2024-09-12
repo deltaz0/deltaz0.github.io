@@ -4,6 +4,8 @@ title: "Instrument Sample Classification"
 date: 2017-11-14
 ---
 
+[Publication](https://digital.library.unt.edu/ark:/67531/metadc2356129/)
+
 Compact CNN for supervised raw audio sample classification by instrument type. Achieves over 95% accuracy on any class combination.
 
 ![ClassificationImage1](/images/tp3.png){:style="width:50%;display:block;margin-left:auto;margin-right:auto;"}
