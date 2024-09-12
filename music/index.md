@@ -9,7 +9,7 @@ layout: default
 
 --- -->
 
-Most of my music work: [Soundcloud](https://soundcloud.com/delta-z).
+Most of my music is hosted on [Soundcloud](https://soundcloud.com/delta-z).
 
 I produced the music for the kickstarter video for the OMNI, a gaming apparatus for use with the Oculus Rift developed by Virtuix, which you can find [here](https://www.kickstarter.com/projects/1944625487/omni-move-naturally-in-your-favorite-game).
 
