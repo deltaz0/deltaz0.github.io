@@ -4,7 +4,7 @@ title: "Simple Rube Goldberg Game Project"
 date: 2024-07-04
 ---
 
-[Github Repo](https://github.com/deltaz0/RubeGoldberg) - Presented as-is from snapshot of (quite old) project status -- this does not represent release code and is not maintained.
+[Github Repo](https://github.com/deltaz0/RubeGoldberg) - Presented as-is from snapshot of (quite old) project status. Not representative of release code; not maintained.
 
 Early undergrad project for 2D Game Math & Physics, illustrating concepts of OOP game dev with implemented physics system in raw C++/DirectX engine.
 
