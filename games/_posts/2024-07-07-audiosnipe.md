@@ -4,6 +4,8 @@ title: "AudioSnipe"
 date: 2024-07-07
 ---
 
+[Github Repo](https://github.com/deltaz0/AudioSnipe) - Presented as-is from snapshot of (quite old) project status. Not representative of release code; not maintained.
+
 Tool developed for a research study in HCI and translational perception mapping. The UI is not visible to the user, but the audio is. The user is told to orient the reticle such that it is closest to the target. A collection of tracer tones with multiple effects modulated by position constantly play. The idea is to test whether a human can rapidly adjust to a game world and gain some semblance of orientation with only audio feedback.
 
 <center>
