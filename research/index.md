@@ -13,8 +13,7 @@ layout: default
 
 *   [**Convolutional Neural Networks in the Domain of Non-Lexical Audio Signals**\\
     V. Johnson\\
-    *University of North Texas College of Engineering, Toulouse Graduate School: Computer Science & Engineering Doctoral Dissertations, Summer 2024*\\
-    (Under publication embargo until Aug 2024)](#)
+    *University of North Texas College of Engineering, Toulouse Graduate School: Computer Science & Engineering Doctoral Dissertations, Summer 2024*](https://digital.library.unt.edu/ark:/67531/metadc2356129/)
 
 ### Articles/Papers
 
